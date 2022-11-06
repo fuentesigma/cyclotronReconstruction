@@ -1,2 +1,2 @@
 # cyclotronReconstruction
-Dynamical reconstruction of the classical motion of a charged particle moving in some external field
+Dynamical reconstruction of the classical and quantum motion of a charged particle moving in some external field
